@@ -10,4 +10,13 @@ Ini adalah project aplikasi blog sederhana menggunakan PHP Native dan MySQL.
 - Login sederhana (opsional)
 
 ## Struktur Folder
-
+blog/
+├── index.php
+├── post.php
+├── edit.php
+├── delete.php
+├── config/
+│ └── db.php
+├── uploads/
+└── css/
+└── style.css
